@@ -42,8 +42,8 @@ A robust Node.js web scraper using Puppeteer that extracts detailed movie inform
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/imdb-scraper.git
-cd imdb-scraper
+git https://github.com/raikwarroshni/web-scraper
+cd web-scraper-main
 ```
 
 ### 2. Install Dependencies
